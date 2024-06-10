@@ -33,3 +33,28 @@ return  formatter.format(date);
 }
 
 }
+
+class ExpenseBucket {
+  const ExpenseBucket({
+    required this.expenses,
+    required this.category,
+});
+
+  // ultility constructor function to check whhich item belong to which category
+  ExpenseBucket.forCategory( List<Expense> allExpenses , this.category)
+      : expenses  = allExpenses.where((expense) => expense.category== category).toList();
+
+
+  final Category category;
+  final List<Expense> expenses;
+
+  double get totalExpenses{
+    double sum =0;
+    for(final expense in expenses){
+      sum+= expense.amount;
+    }
+
+    return sum;
+
+  }
+}
