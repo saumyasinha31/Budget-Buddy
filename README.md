@@ -73,7 +73,7 @@ An expense tracker app built using Dart and Flutter that allows users to add, de
 - Expenses are listed on the home screen.
 - A chart displays expenses categorized by type.
 
-## Customizing Theme
+## Customizing 
 
 The app adapts to the system theme automatically. However, you can manually set the theme by modifying the `ThemeData` in the main Dart file.
 
