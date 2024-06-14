@@ -15,26 +15,9 @@ An expense tracker app built using Dart and Flutter that allows users to add, de
 
 ## Screenshots
 
+![Untitled design (2)](https://github.com/saumyasinha31/Budget-Buddy/assets/103508561/b73e3aef-a96a-4ff5-84ef-70b1086cebe1)
 
 
-![Screenshot from 2024-06-10 22-01-31](https://github.com/saumyasinha31/Budget-Buddy/assets/103508561/1aecbfed-d27c-4730-9a11-df443a4e856d)
-![Screenshot from 2024-06-10 22-02-38](https://github.com/saumyasinha31/Budget-Buddy/assets/103508561/666a3834-5db7-4695-864b-d61505b59ef4)
-![Screenshot from 2024-06-10 22-03-27](https://github.com/saumyasinha31/Budget-Buddy/assets/103508561/5eae6dfd-e055-4798-a11c-d581491c0b64)
-
-![Screenshot from 2024-06-10 22-04-08](https://github.com/saumyasinha31/Budget-Buddy/assets/103508561/0f558048-3028-44fd-a41d-9f98f00b2ac5)
-
-![Screenshot from 2024-06-10 22-04-16](https://github.com/saumyasinha31/Budget-Buddy/assets/103508561/cf8c25e1-59c5-4194-bd05-ba781f169905)
-![Screenshot from 2024-06-10 22-04-19](https://github.com/saumyasinha31/Budget-Buddy/assets/103508561/443d41b4-2811-46e5-8dfb-f33f134cd278)
-
-
-![Screenshot from 2024-06-10 22-04-33](https://github.com/saumyasinha31/Budget-Buddy/assets/103508561/1e2bdbb7-e48d-4d44-adaf-d6e4b5dc07ff)
-![Screenshot from 2024-06-10 22-04-40](https://github.com/saumyasinha31/Budget-Buddy/assets/103508561/3fd6b550-ed46-4743-87d9-1dd7ca424d91)
-
-![Screenshot from 2024-06-10 22-04-51](https://github.com/saumyasinha31/Budget-Buddy/assets/103508561/43c86064-88ae-4506-8578-ff090a297ed2)
-![Screenshot from 2024-06-10 22-06-12](https://github.com/saumyasinha31/Budget-Buddy/assets/103508561/bf90b661-2633-42f8-829d-0093c28f3281)
-![Screenshot from 2024-06-10 22-06-22](https://github.com/saumyasinha31/Budget-Buddy/assets/103508561/96a49de1-5ced-4ec1-bdd1-c2b7942ecf23)
-
-![Screenshot from 2024-06-10 22-06-31](https://github.com/saumyasinha31/Budget-Buddy/assets/103508561/923ac49c-a9e8-45f1-9630-6138ded8dba1)
 
 
 
