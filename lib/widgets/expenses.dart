@@ -69,6 +69,10 @@ class _ExpensesState extends State<Expenses> {
 
   @override
   Widget build(BuildContext context) {
+   final width = MediaQuery.of(context).size.width;
+
+
+
     Widget mainContent = Center(
         child: Text('No expenses found . Start adding some!'));
     if (_registeredExpenses.isNotEmpty) {
@@ -84,10 +88,19 @@ class _ExpensesState extends State<Expenses> {
             onPressed: _openAddExpenseOverlay,)
         ],
       ),
-      body: Column(
+      body: width < 600 ? Column(
         children: [
 
           Chart(expenses: _registeredExpenses),
+          Expanded(
+            child: mainContent,
+          )
+        ],
+      ) : Row(
+        children: [
+
+          Expanded(
+              child: Chart(expenses: _registeredExpenses)),
           Expanded(
             child: mainContent,
           )
